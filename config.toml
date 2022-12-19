@@ -1,0 +1,4 @@
+baseURL = "https://iothings.fr"
+languageCode = "fr-Fr"
+title = "IoThings"
+theme = 'ananke'
