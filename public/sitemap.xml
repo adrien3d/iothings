@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://iothings.fr/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>https://iothings.fr/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://iothings.fr/</loc>
-  </url>
+  <sitemap>
+    <loc>https://iothings.fr/fr/sitemap.xml</loc>
+    
+      <lastmod>2018-12-06T09:29:16+10:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://iothings.fr/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
