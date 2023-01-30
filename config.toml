@@ -19,11 +19,11 @@ DefaultContentLanguage = "fr"
   [languages.fr]
     title = "IoThings - Bureau d'études Objets Connectés IoT"
     weight = 2
-    contentDir = "content/fr"  
+    contentDir = "content/fr"
  
 [params]
   google_analytics_id=""
-
+  featured = true
   [params.logo]
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
@@ -44,19 +44,20 @@ DefaultContentLanguage = "fr"
     meta_twitter_site = "@zerostaticio"
     meta_twitter_creator = "@zerostaticio"
 
+
 [[menu.main]]
 	name = "Expertises"
-	url = "#services"
+	url = "/#expertises"
     weight = 1
 
 [[menu.main]]
     name = "Projets"
-    url = "#work"
+    url = "/#work"
     weight = 2
 
 [[menu.main]]
     name = "Clients"
-    url = "#about"
+    url = "/#about"
     weight = 3
 
 [[menu.main]]
